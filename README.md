@@ -1,6 +1,3 @@
-# Overview
-asldkfjasdf
-
 # Content
 * Resources
   * data.csv
@@ -9,8 +6,11 @@ asldkfjasdf
     * API calls merged with original data set
     * Clean file
 * Final Data
+  * Final Analysis and Conclusion
+  * Figures 
 * Slide Deck
-* Written Analyis
+
+# Overview
 
 # Analysis and Conclusion
 
