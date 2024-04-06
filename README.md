@@ -11,7 +11,7 @@
 * Slide Deck
 
 # Overview
-We are an investment firm and many of our younger, Millenial and Gen Z investors have become increasingly interested is companies and their ESG score. We have recieved several enquireies from our clients all centered around one question. 
+We are an investment firm and many of our younger, Millenial and Gen Z investors, have become increasingly interested is companies and their ESG score. We have recieved several enquireies from our clients all centered around one question. 
 
 Can I use a companies ESG rating to determine whether or not I should invest in a company?
 
