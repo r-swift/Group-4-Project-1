@@ -15,11 +15,14 @@ We are an investment firm and many of our younger, Millenial and Gen Z investors
 
 Can I use a companies ESG rating to determine whether or not I should invest in a company?
 
-In order to answer this we decided to isolate Annualized Growth and Earnings Per Share (EPS) using ESG grade data provided from ESG Governance for 722 individual stocks spread across 47 Sectors to try and determine if a correlation exists by asking the following questions.
+We secured a ESG Grading Database from ESG Governance containing 722 companies spread across 47 Sectors. This grading broke the companies into grading bins, AA, A, BBB, BB, B. 
+
+We then used the AlphaVantage API to pull stock data for the companies in order to isolate 5 year price average and EPS data.
 
 * What are the top rated ESG companies?
 * What are the average ESG ratings by Sector?
 * What are the 5 year annualized averages and EPS scores for the avaliable bins AA, A, BBB, BB, B?
+* Is there any correlation between the 4 year annualized averages and EPS data and ESG grade rating?
 
 
 
