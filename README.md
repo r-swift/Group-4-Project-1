@@ -12,9 +12,6 @@ asldkfjasdf
 * Slide Deck
 * Written Analyis
 
-
-# Summary
-
 # Analysis and Conclusion
 
 # Resources
