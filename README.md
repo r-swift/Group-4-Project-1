@@ -15,7 +15,7 @@ We are an investment firm and many of our younger, Millenial and Gen Z investors
 
 Can I use a companies ESG rating to determine whether or not I should invest in a company?
 
-In order to answer this we decided to isolate Annualized Growth and Earnings Per Share (EPS) using ESG grade data provided from ESG Governance to try and determine is a correlation exists. 
+In order to answer this we decided to isolate Annualized Growth and Earnings Per Share (EPS) using ESG grade data provided from ESG Governance for 722 individual stocks spread across 47 Sectors to try and determine if a correlation exists. 
 
 
 # Analysis and Conclusion
