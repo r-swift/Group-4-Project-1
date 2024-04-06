@@ -3,9 +3,11 @@ asldkfjasdf
 
 # Content
 * csv_files
-  * data_csv
+  * data.csv
     * Raw Kaggle Data
-* 
+  * esg_complete.csv
+    * API calls merged with original data set
+    * Clean file
 
 
 
