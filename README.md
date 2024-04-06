@@ -21,7 +21,7 @@ We then used the AlphaVantage API to pull stock data for the companies in order 
 * What are the top rated ESG companies?
 * What are the average ESG ratings by Sector?
 * What are the 5 year annualized averages and EPS scores for the avaliable bins AA, A, BBB, BB, B?
-* Is there any correlation between the 4 year annualized averages and EPS data and ESG grade rating?
+* Is there any correlation between the 5 year annualized averages and EPS data and ESG grade rating?
 
 
 
