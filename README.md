@@ -1,10 +1,9 @@
 # Content
 * Resources
   * data.csv
-    * Raw Kaggle Data
+    * Original Kaggle Data
   * esg_complete.csv
-    * API calls merged with original data set
-    * Clean file
+    * Cleaned csv combining Kaggle Data with API data
 * Final Data
   * Final Analysis and Conclusion
   * Figures 
@@ -27,5 +26,9 @@ We then used the AlphaVantage API to pull stock data for the companies in order 
 
 
 # Analysis and Conclusion
+We began our analysis by creating a clean csv file using combined data from the ESG csv and the API data calls from AlphaVantage. Once we had this csv we began to dive deeper into the data. 
+
+
+
 
 # Resources
