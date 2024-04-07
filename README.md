@@ -1,4 +1,6 @@
 # Content
+* Images
+  * All visuals created during analysis
 * Resources
   * data.csv
     * Original Kaggle Data
