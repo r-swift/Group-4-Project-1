@@ -23,14 +23,10 @@ We then used the AlphaVantage API to pull stock data for the companies in order 
 * What are the 5 year annualized averages and EPS scores for the avaliable bins AA, A, BBB, BB, B?
 * Is there any correlation between the 5 year annualized averages and EPS data and ESG grade rating?
 
-
-
 # Analysis and Conclusion
 From our analysis we have concluded that it would not be wise for investors to solely use ESG grade as their lone indicator when deciding on their investment choices. Investors can certainly take a companies ESG rating into account when selecting an investment but factors such as Dividend Payout Ratio, Overall Investment Need, Time Horizon of the investor, Risk factor of the investor, Volatility of the stock/sector, and the overall stock market evnivornment need to be addressed in tandom with ESG grade when detmining the viability of a stock for a particular investor. 
 
-This may be due to a lack or regulation within ESG grading itself as there is currently no standarized grading system for ESG, this can lead to varying data depending on what grading source you use. This in itself is ok 
-
-
+For more detailed technical Analysis please see the ESG.ipynb Jupyter Notebook.
 
 # Resources
 
