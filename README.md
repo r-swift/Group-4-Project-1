@@ -26,20 +26,26 @@ We then used the AlphaVantage API to pull stock data for the companies in order 
 
 
 # Analysis and Conclusion
-We began our analysis by creating a clean csv file using combined data from the ESG csv and the API data calls from AlphaVantage. Once we had this csv we began to dive deeper into the data. 
+From our analysis we have concluded that it would not be wise for investors to solely use ESG grade as their lone indicator when deciding on their investment choices. Investors can certainly take a companies ESG rating into account when selecting an investment but factors such as Dividend Payout Ratio, Overall Investment Need, Time Horizon of the investor, Risk factor of the investor, Volatility of the stock/sector, and the overall stock market evnivornment need to be addressed in tandom with ESG grade when detmining the viability of a stock for a particular investor. 
 
-We isolated and removed the outliers from the Annualized Growth and EPS data to reduce the amount of pull they would have one the overall dataset.
-
-Our first step was to isolate the mean and median data for each Industry. This allowed us to see if there was a gross overweighting towards one industry as opposed to another. 
-
-We then looked at the actual grading system that was avliable to us. This was an important piece of analysis for us as we were able to see that the BBB rating bucket accounted for 51% of the total population. This was important for us to realize moving forward as it could lead to larger sway within our studies. 
-
-Next we plotted two linear regressions one for EPS data and one for Annualized Growth data from this we were able to determine that there was no real meaningfull correlation between EPS and Annualized Growth and ESG Grade. With low r-squared ratings idicating that there is a lower level of variation. However, between the two we can say that between Annualized Growth and EPS, EPS holds a higher correlation to ESG grade than Annualized Growth does. This makes sense as the EPS shows the actual earnings per share a company had as opposed to general stock price movement. However, the correlation score of 0.2 would indicate a weak relationship betwen the two variables. 
-
-As a result, we have determined that is would not be wise for investors to solely use ESG grade as their lone indicator when deciding on their investment choices. Investors can certainly take a companies ESG rating into account when selecting an investment but factors such as Dividend Payout Ratio, Overall Investment Need, Time Horizon of the investor, Risk factor of the investor, Volatility of the stock/sector, and the overall stock market evnivornment need to be addressed in tandom with ESG grade when detmining the viability of a stock for a particular investor. 
-
-This may be due to a lack or regulation within ESG grading itself as there is currently no standarized grading system for ESG, this can lead to varying data depending on what grading source you use.
+This may be due to a lack or regulation within ESG grading itself as there is currently no standarized grading system for ESG, this can lead to varying data depending on what grading source you use. This in itself is ok 
 
 
 
 # Resources
+
+## Data Resources:
+* ESG Compare - via Kaggle csv
+  * https://www.kaggle.com/datasets/alistairking/public-company-esg-ratings-dataset
+* AlphaVantage API
+  * https://www.alphavantage.co/documentation/
+
+## Background ESG Sources
+* ESG Ratings Methodology
+  * https://app.esgenterprise.com/uploads/ESG-Enterprise-Risk-Ratings-MethodologyV3.pdf
+* Harvard Business Review
+  * https://hbr.org/2022/08/esg-investing-isnt-designed-to-save-the-planet?ab=at_art_art_1x4_s01
+* Nasdaq.com
+  * https://www.nasdaq.com/articles/how-millennials-and-gen-z-are-driving-growth-behind-esg
+* Harvard Law School of Coporate Governance
+  * https://corpgov.law.harvard.edu/2022/03/16/the-false-promise-of-esg/
