@@ -23,7 +23,7 @@ We then used the AlphaVantage API to pull stock data for the companies in order 
 * What are the top scoring ESG companies, and what are the top scoring industries by average total ESG score?
 * How do the comapnies in our initial dataset breakdown by ESG total grade?
 
-* In order to answer our general question our analysis primarily focuses on the follwing questions:
+## In order to answer our general question our analysis primarily focuses on the follwing questions:
 * Based solely on ESG total score, is there a positive and meaningful correlation between 5 year annualized change in stock price?
 * Based solely on ESG total score, is there a positive and meaningful correlation between earnings per share (EPS)
 
