@@ -18,7 +18,7 @@ Can I use a company's ESG score to determine whether or not I should invest in a
 
 We secured a dataset from Kaggle.com, containing 722 companies spread across 47 Sectors, this dataset contained ESG grading and scoring. This grading broke the companies into grading bins, AA, A, BBB, BB, B. The Kaggle csv derived it's data from ESG Compare. This csv is within our data.csv file above.
 
-We then used the AlphaVantage API to pull stock data for the companies in order to isolate 5 year price average and EPS data. We were able to clean and merge our API data into one dataset, (name of that dataset)
+We then used the AlphaVantage API to pull stock data for the companies in order to isolate 5 year price average and EPS data. We were able to clean and merge our API data into one dataset, this can be seen within our data_clean.ipynb file above.
 
 * What are the top scoring ESG companies, and what are the top scoring industries by average total ESG score?
 * How do the comapnies in our initial dataset breakdown by ESG total grade?
