@@ -1,14 +1,15 @@
-# Content
-* Images
-  * All visuals created during analysis
-* Resources
-  * data.csv
-    * Original Kaggle Data
-  * esg_complete.csv
-    * Cleaned csv combining Kaggle Data with API data
-* Final Data
-  * data_clean.ipynb
-  * ESG.ipynb
+# Table of Contents
+--
+
+*ESG.ipynb
+  * Main project analysis
+* data_clean.ipynb
+  * AlphaVantage API call and data clean and merge
+*csv_files
+  *data.csv (original data set from kaggle.com)
+  *esg_complete.csv (cleaned dataset used in main project analysis
+*Images
+  * output folder containing visuals generated during analysis
 * Slide Deck
 
 # Overview
