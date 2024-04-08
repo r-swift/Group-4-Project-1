@@ -1,9 +1,10 @@
 # Table of Contents
 --
 
-### ESG.ipynb
-  #### * Main project analysis
-       * data_clean.ipynb
+#### ESG.ipynb
+   * Main project analysis
+
+#### data_clean.ipynb
        * AlphaVantage API call and data clean and merge
        
 #### csv_files
