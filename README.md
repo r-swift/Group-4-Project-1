@@ -7,8 +7,9 @@
    * AlphaVantage API call and data clean and merge
        
 #### csv_files
-   *data.csv (original data set from kaggle.com)
-   *esg_complete.csv (cleaned dataset used in main project analysis
+    *data.csv (original data set from kaggle.com)
+    
+    *esg_complete.csv (cleaned dataset used in main project analysis
       
 #### Images
    * output folder containing visuals generated during analysis
