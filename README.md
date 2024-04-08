@@ -7,6 +7,7 @@
   * esg_complete.csv
     * Cleaned csv combining Kaggle Data with API data
 * Final Data
+  * data_clean.ipynb
   * ESG.ipynb
 * Slide Deck
 
