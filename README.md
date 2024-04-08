@@ -1,16 +1,19 @@
 # Table of Contents
 --
 
-*ESG.ipynb
-  * Main project analysis
-* data_clean.ipynb
-  * AlphaVantage API call and data clean and merge
-*csv_files
-  *data.csv (original data set from kaggle.com)
-  *esg_complete.csv (cleaned dataset used in main project analysis
-*Images
-  * output folder containing visuals generated during analysis
-* Slide Deck
+### ESG.ipynb
+  #### * Main project analysis
+       * data_clean.ipynb
+       * AlphaVantage API call and data clean and merge
+       
+#### csv_files
+      *data.csv (original data set from kaggle.com)
+      *esg_complete.csv (cleaned dataset used in main project analysis
+      
+#### Images
+    * output folder containing visuals generated during analysis
+    
+#### Slide Deck
 
 # Overview
 We are an investment firm and many of our younger, Millenial and Gen Z investors, have become increasingly interested is companies and their ESG score. We have recieved several enquiries from our clients all centered around one question. 
