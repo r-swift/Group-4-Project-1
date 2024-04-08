@@ -22,7 +22,7 @@ We are an investment firm and many of our younger, Millenial and Gen Z investors
 
 We secured a dataset from Kaggle.com, containing 722 companies spread across 47 Sectors, this dataset contained ESG grading and scoring. This grading broke the companies into grading bins, AA, A, BBB, BB, B. The Kaggle csv derived it's data from ESG Compare. This csv is within our data.csv file above.
 
-We then used the AlphaVantage API to pull stock data for the companies in order to isolate 5 year price average and EPS data. We were able to clean and merge our API data into one dataset, we were able to merge our API data and our clean csv data into one file, esg_complete.csv within the csv folder above.
+We then used the AlphaVantage API to pull stock data for the companies in order to isolate annualized 5 year change in stock price and earnings per share (EPS) data for as many of the companies in our initial dataset as possible. The data claning and merge work can be found in data_clean.ipynb. Once complete we were able to  export it to csv, esg_complete.csv within the csv folder above. 
 
 ### To begin our analysis we started with the following questions:
 * What are the top scoring ESG companies, and what are the top scoring industries by average total ESG score?
